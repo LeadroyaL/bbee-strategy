@@ -1,0 +1,9949 @@
+{
+  "strategies": [
+    {
+      "id": 2107,
+      "name": "双重落雷",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3043
+      ],
+      "preLabels": [
+        3042
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30003,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2110,
+      "name": "闪电延伸",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3013
+      ],
+      "preLabels": [
+        3012
+      ],
+      "truePre": [
+        3011
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30004,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2111,
+      "name": "技能感电",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30005,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2113,
+      "name": "普攻闪电",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30006,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2115,
+      "name": "冲刺落雷",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30007,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2120,
+      "name": "闪电强化",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3012
+      ],
+      "preLabels": [
+        3011
+      ],
+      "truePre": [
+        3011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30008,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2123,
+      "name": "大型电球",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3032
+      ],
+      "preLabels": [
+        3031
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30009,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2124,
+      "name": "电球闪电",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3014,
+        3034
+      ],
+      "preLabels": [
+        3013,
+        3031
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30010,
+      "triggerLabelIndex": 1,
+      "faction": 301,
+      "secondFaction": 303,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2125,
+      "name": "电球落雷",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3044,
+        3034
+      ],
+      "preLabels": [
+        3043,
+        3031
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30011,
+      "triggerLabelIndex": 1,
+      "faction": 304,
+      "secondFaction": 303,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2127,
+      "name": "闪避落雷",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3042
+      ],
+      "preLabels": [
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30012,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2131,
+      "name": "环绕电球",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30013,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": "GuideSummon:1"
+    },
+    {
+      "id": 2132,
+      "name": "脉冲强化",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3022
+      ],
+      "preLabels": [
+        3021
+      ],
+      "truePre": [
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30014,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2134,
+      "name": "追踪落雷",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3044,
+        3024
+      ],
+      "preLabels": [
+        3043,
+        3021
+      ],
+      "truePre": [
+        3041,
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30015,
+      "triggerLabelIndex": 1,
+      "faction": 304,
+      "secondFaction": 302,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2135,
+      "name": "密集电球",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3033
+      ],
+      "preLabels": [
+        3032
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30016,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2136,
+      "name": "持久电球",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3032
+      ],
+      "preLabels": [
+        3031
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30017,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2138,
+      "name": "电球发射",
+      "series": [
+        3,
+        1
+      ],
+      "labels": [
+        3,
+        3034,
+        1044
+      ],
+      "preLabels": [
+        3033,
+        1041
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30018,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 104,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2139,
+      "name": "扩张电球",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3032
+      ],
+      "preLabels": [
+        3031
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30019,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2140,
+      "name": "落雷强化",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3042
+      ],
+      "preLabels": [
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30020,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2144,
+      "name": "大型脉冲",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3022
+      ],
+      "preLabels": [
+        3021
+      ],
+      "truePre": [
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30021,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2145,
+      "name": "脉冲感电",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3023
+      ],
+      "preLabels": [
+        3022
+      ],
+      "truePre": [
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30022,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2146,
+      "name": "受击落雷",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3042
+      ],
+      "preLabels": [
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30023,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2147,
+      "name": "撞击余波",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80024,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2148,
+      "name": "巨人杀手",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80025,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2150,
+      "name": "落雷惩戒",
+      "series": [
+        3,
+        5
+      ],
+      "labels": [
+        3,
+        3044,
+        5014
+      ],
+      "preLabels": [
+        3043,
+        5011
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30026,
+      "triggerLabelIndex": 1,
+      "faction": 304,
+      "secondFaction": 501,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2151,
+      "name": "闪电弹射",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3012
+      ],
+      "preLabels": [
+        3011
+      ],
+      "truePre": [
+        3011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30027,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2152,
+      "name": "脉冲麻痹",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3022
+      ],
+      "preLabels": [
+        3021
+      ],
+      "truePre": [
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30028,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2153,
+      "name": "落雷麻痹",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3042
+      ],
+      "preLabels": [
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30029,
+      "triggerLabelIndex": 0,
+      "faction": 304,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2154,
+      "name": "电闪雷鸣",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3011,
+        30111
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30530,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2155,
+      "name": "闪电过载",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3012
+      ],
+      "preLabels": [
+        3011
+      ],
+      "truePre": [
+        3011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30031,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2156,
+      "name": "触手闪电",
+      "series": [
+        3,
+        5
+      ],
+      "labels": [
+        3,
+        3014,
+        5024
+      ],
+      "preLabels": [
+        3013,
+        5021
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30032,
+      "triggerLabelIndex": 1,
+      "faction": 301,
+      "secondFaction": 502,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2157,
+      "name": "技能闪电",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30033,
+      "triggerLabelIndex": 0,
+      "faction": 301,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2158,
+      "name": "闪电感电",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3024,
+        3014
+      ],
+      "preLabels": [
+        3023,
+        3011
+      ],
+      "truePre": [
+        3011,
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30034,
+      "triggerLabelIndex": 1,
+      "faction": 302,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2159,
+      "name": "黑洞脉冲",
+      "series": [
+        3,
+        5
+      ],
+      "labels": [
+        3,
+        3024,
+        5034
+      ],
+      "preLabels": [
+        3023,
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30035,
+      "triggerLabelIndex": 1,
+      "faction": 302,
+      "secondFaction": 503,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2160,
+      "name": "光枪落雷",
+      "series": [
+        3,
+        6
+      ],
+      "labels": [
+        3,
+        3044,
+        6034
+      ],
+      "preLabels": [
+        3043,
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30036,
+      "triggerLabelIndex": 1,
+      "faction": 304,
+      "secondFaction": 603,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2168,
+      "name": "传承技感电",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30537,
+      "triggerLabelIndex": 0,
+      "faction": 302,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2169,
+      "name": "影子电球",
+      "series": [
+        3,
+        5
+      ],
+      "labels": [
+        3,
+        3034,
+        5044
+      ],
+      "preLabels": [
+        3033,
+        5041
+      ],
+      "truePre": [
+        3031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30038,
+      "triggerLabelIndex": 0,
+      "faction": 303,
+      "secondFaction": 504,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2170,
+      "name": "传承技电桩",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30539,
+      "triggerLabelIndex": 0,
+      "faction": 305,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2171,
+      "name": "持久电桩",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3052
+      ],
+      "preLabels": [
+        3051
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30040,
+      "triggerLabelIndex": 0,
+      "faction": 305,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2172,
+      "name": "超载电桩",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3052
+      ],
+      "preLabels": [
+        3051
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30041,
+      "triggerLabelIndex": 0,
+      "faction": 305,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2173,
+      "name": "电桩吸附",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3052
+      ],
+      "preLabels": [
+        3051
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30042,
+      "triggerLabelIndex": 0,
+      "faction": 305,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2174,
+      "name": "大型电桩",
+      "series": [
+        3
+      ],
+      "labels": [
+        3,
+        3053
+      ],
+      "preLabels": [
+        3052
+      ],
+      "truePre": [
+        3052
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30043,
+      "triggerLabelIndex": 0,
+      "faction": 305,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2175,
+      "name": "感电电球",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3034,
+        3024
+      ],
+      "preLabels": [
+        3033,
+        3021
+      ],
+      "truePre": [
+        3021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30044,
+      "triggerLabelIndex": 1,
+      "faction": 303,
+      "secondFaction": 302,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2176,
+      "name": "脉冲电桩",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3024,
+        3054
+      ],
+      "preLabels": [
+        3023,
+        3051
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30045,
+      "triggerLabelIndex": 1,
+      "faction": 302,
+      "secondFaction": 305,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2177,
+      "name": "传导电桩",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3034,
+        3054
+      ],
+      "preLabels": [
+        3033,
+        3051
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30046,
+      "triggerLabelIndex": 1,
+      "faction": 303,
+      "secondFaction": 305,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2178,
+      "name": "电桩链接",
+      "series": [
+        3,
+        3
+      ],
+      "labels": [
+        3,
+        3054,
+        3014
+      ],
+      "preLabels": [
+        3053,
+        3011
+      ],
+      "truePre": [
+        3051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30047,
+      "triggerLabelIndex": 1,
+      "faction": 305,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2179,
+      "name": "飞刃脉冲",
+      "series": [
+        3,
+        7
+      ],
+      "labels": [
+        3,
+        3024,
+        7054
+      ],
+      "preLabels": [
+        3023,
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30048,
+      "triggerLabelIndex": 1,
+      "faction": 302,
+      "secondFaction": 705,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2180,
+      "name": "冰雷云雾",
+      "series": [
+        2,
+        3
+      ],
+      "labels": [
+        3,
+        2044,
+        3014
+      ],
+      "preLabels": [
+        30111,
+        2043
+      ],
+      "truePre": [
+        30111
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20049,
+      "triggerLabelIndex": 1,
+      "faction": 204,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2181,
+      "name": "光阵电桩",
+      "series": [
+        3,
+        6
+      ],
+      "labels": [
+        3,
+        3054,
+        6024
+      ],
+      "preLabels": [
+        3053,
+        6021
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 30050,
+      "triggerLabelIndex": 1,
+      "faction": 305,
+      "secondFaction": 602,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2203,
+      "name": "普攻寒冷",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20051,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2204,
+      "name": "临终冰爆",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10052,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2206,
+      "name": "强力破冰",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        20131
+      ],
+      "preLabels": [
+        20121
+      ],
+      "truePre": [
+        2011,
+        20121
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20053,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2212,
+      "name": "受击寒风",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20054,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2213,
+      "name": "冲刺冰锥",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20055,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2218,
+      "name": "冰锥强化",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2022
+      ],
+      "preLabels": [
+        2021
+      ],
+      "truePre": [
+        2021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20056,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2221,
+      "name": "冰刺强化",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2032
+      ],
+      "preLabels": [
+        2031
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20057,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2225,
+      "name": "召唤冰刺",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20058,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2226,
+      "name": "技能寒冷",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20059,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2227,
+      "name": "寒气爆发",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2012,
+        20122
+      ],
+      "preLabels": [
+        2011
+      ],
+      "truePre": [
+        2011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20060,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2232,
+      "name": "精准冰刺",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2032
+      ],
+      "preLabels": [
+        2031
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20061,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2234,
+      "name": "长效寒冷",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20062,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2235,
+      "name": "聚寒成冰",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2012,
+        20121
+      ],
+      "preLabels": [
+        2011
+      ],
+      "truePre": [
+        2011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20063,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2238,
+      "name": "随机冰锥",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2023
+      ],
+      "preLabels": [
+        2022
+      ],
+      "truePre": [
+        2021
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20064,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2239,
+      "name": "破敌增寒",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20065,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2242,
+      "name": "多重冰刺",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2033
+      ],
+      "preLabels": [
+        2032
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20066,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2243,
+      "name": "机关抵抗",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80067,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2244,
+      "name": "高效攻坚",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80068,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2245,
+      "name": "雪上加霜",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20069,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2246,
+      "name": "闪避冰锥",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2022
+      ],
+      "preLabels": [
+        2021
+      ],
+      "truePre": [
+        2021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20070,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2247,
+      "name": "冰锥速冻",
+      "series": [
+        2
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20071,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2248,
+      "name": "冰霜爆破",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        20132
+      ],
+      "preLabels": [
+        20122
+      ],
+      "truePre": [
+        2011,
+        20122
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20072,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2249,
+      "name": "冰刺穿透",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2032
+      ],
+      "preLabels": [
+        2031
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20073,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2250,
+      "name": "寒冰毒雾",
+      "series": [
+        2,
+        4
+      ],
+      "labels": [
+        2,
+        20141,
+        4064
+      ],
+      "preLabels": [
+        20131,
+        40111
+      ],
+      "truePre": [
+        40111
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20074,
+      "triggerLabelIndex": 1,
+      "faction": 201,
+      "secondFaction": 406,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2251,
+      "name": "冰冻冰锥",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2024,
+        20141
+      ],
+      "preLabels": [
+        2023,
+        20121
+      ],
+      "truePre": [
+        2011,
+        20121
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20075,
+      "triggerLabelIndex": 1,
+      "faction": 202,
+      "secondFaction": 201,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2252,
+      "name": "无尽冰刺",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        20141,
+        2034
+      ],
+      "preLabels": [
+        20121,
+        2033
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20076,
+      "triggerLabelIndex": 1,
+      "faction": 203,
+      "secondFaction": 201,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2253,
+      "name": "冰霜脉冲",
+      "series": [
+        2,
+        3
+      ],
+      "labels": [
+        2,
+        20142,
+        3024
+      ],
+      "preLabels": [
+        20132,
+        3021
+      ],
+      "truePre": [
+        2011,
+        20122
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20077,
+      "triggerLabelIndex": 0,
+      "faction": 201,
+      "secondFaction": 302,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2254,
+      "name": "冰刺再生",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2034,
+        20142
+      ],
+      "preLabels": [
+        2033,
+        20122
+      ],
+      "truePre": [
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20078,
+      "triggerLabelIndex": 0,
+      "faction": 203,
+      "secondFaction": 201,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2255,
+      "name": "冰锥极寒",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        20142,
+        2024
+      ],
+      "preLabels": [
+        20132,
+        2021
+      ],
+      "truePre": [
+        2021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20079,
+      "triggerLabelIndex": 1,
+      "faction": 201,
+      "secondFaction": 202,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2256,
+      "name": "光枪冰锥",
+      "series": [
+        2,
+        6
+      ],
+      "labels": [
+        2,
+        2024,
+        6034
+      ],
+      "preLabels": [
+        2023,
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20080,
+      "triggerLabelIndex": 1,
+      "faction": 202,
+      "secondFaction": 603,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2257,
+      "name": "影子冰刺",
+      "series": [
+        2,
+        5
+      ],
+      "labels": [
+        2,
+        2034,
+        5044
+      ],
+      "preLabels": [
+        2033,
+        5041
+      ],
+      "truePre": [
+        5041,
+        2031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20081,
+      "triggerLabelIndex": 1,
+      "faction": 203,
+      "secondFaction": 504,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2258,
+      "name": "传承技冰锥",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20582,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2267,
+      "name": "受击冰锥",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2022
+      ],
+      "preLabels": [
+        2021
+      ],
+      "truePre": [
+        2021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20083,
+      "triggerLabelIndex": 0,
+      "faction": 202,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2268,
+      "name": "技能冰雹",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20084,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2269,
+      "name": "传承技冰雹",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20585,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2270,
+      "name": "广域冰雹",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2042
+      ],
+      "preLabels": [
+        2041
+      ],
+      "truePre": [
+        2041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20086,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2271,
+      "name": "冰雹频率",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2042
+      ],
+      "preLabels": [
+        2041
+      ],
+      "truePre": [
+        2041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20087,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2272,
+      "name": "持久冰雹",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2042
+      ],
+      "preLabels": [
+        2041
+      ],
+      "truePre": [
+        2041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20088,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2273,
+      "name": "大型冰雹",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2043
+      ],
+      "preLabels": [
+        2042
+      ],
+      "truePre": [
+        2042
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20089,
+      "triggerLabelIndex": 0,
+      "faction": 204,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2274,
+      "name": "玄冰剑刃",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20090,
+      "triggerLabelIndex": 0,
+      "faction": 205,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2277,
+      "name": "速凝玄冰",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2052
+      ],
+      "preLabels": [
+        2051
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20091,
+      "triggerLabelIndex": 0,
+      "faction": 205,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2278,
+      "name": "玄冰剑气",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2052
+      ],
+      "preLabels": [
+        2051
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20092,
+      "triggerLabelIndex": 0,
+      "faction": 205,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2279,
+      "name": "玄冰连斩",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2052
+      ],
+      "preLabels": [
+        2051
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20093,
+      "triggerLabelIndex": 0,
+      "faction": 205,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2280,
+      "name": "玄冰巨剑",
+      "series": [
+        2
+      ],
+      "labels": [
+        2,
+        2053
+      ],
+      "preLabels": [
+        2052
+      ],
+      "truePre": [
+        2052
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20094,
+      "triggerLabelIndex": 0,
+      "faction": 205,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2281,
+      "name": "冰爆锥体",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2024,
+        2044
+      ],
+      "preLabels": [
+        2023,
+        2041
+      ],
+      "truePre": [
+        2041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20095,
+      "triggerLabelIndex": 1,
+      "faction": 202,
+      "secondFaction": 204,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2282,
+      "name": "雹云冰刺",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2034,
+        2044
+      ],
+      "preLabels": [
+        2033,
+        2041
+      ],
+      "truePre": [
+        2041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20096,
+      "triggerLabelIndex": 1,
+      "faction": 203,
+      "secondFaction": 204,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2283,
+      "name": "玄冰凝域",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2014,
+        2054
+      ],
+      "preLabels": [
+        20131,
+        2051
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20097,
+      "triggerLabelIndex": 1,
+      "faction": 201,
+      "secondFaction": 205,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2284,
+      "name": "冰击化剑",
+      "series": [
+        2,
+        2
+      ],
+      "labels": [
+        2,
+        2054,
+        2014
+      ],
+      "preLabels": [
+        2053,
+        20122
+      ],
+      "truePre": [
+        2011,
+        20122,
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20098,
+      "triggerLabelIndex": 1,
+      "faction": 205,
+      "secondFaction": 201,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2285,
+      "name": "冰落光阵",
+      "series": [
+        2,
+        6
+      ],
+      "labels": [
+        2,
+        2044,
+        6024
+      ],
+      "preLabels": [
+        2043,
+        6021
+      ],
+      "truePre": [
+        2041,
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20099,
+      "triggerLabelIndex": 1,
+      "faction": 204,
+      "secondFaction": 602,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2286,
+      "name": "冰爆地雷",
+      "series": [
+        2,
+        1
+      ],
+      "labels": [
+        2,
+        2044,
+        1054
+      ],
+      "preLabels": [
+        2043,
+        1051
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20100,
+      "triggerLabelIndex": 1,
+      "faction": 204,
+      "secondFaction": 105,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2287,
+      "name": "冰剑刺击",
+      "series": [
+        2,
+        7
+      ],
+      "labels": [
+        2,
+        2054,
+        7034
+      ],
+      "preLabels": [
+        2053,
+        7031
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20101,
+      "triggerLabelIndex": 1,
+      "faction": 205,
+      "secondFaction": 703,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2288,
+      "name": "光爆玄冰",
+      "series": [
+        2,
+        6
+      ],
+      "labels": [
+        2,
+        2054,
+        6054
+      ],
+      "preLabels": [
+        2053,
+        6051
+      ],
+      "truePre": [
+        6051,
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 20102,
+      "triggerLabelIndex": 1,
+      "faction": 205,
+      "secondFaction": 605,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2401,
+      "name": "冲刺燃烧",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1011,
+        1021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10103,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2403,
+      "name": "普攻燃烧",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10104,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2404,
+      "name": "持久燃烧",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1012
+      ],
+      "preLabels": [
+        1011
+      ],
+      "truePre": [
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10105,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2405,
+      "name": "聚火成炎",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1012
+      ],
+      "preLabels": [
+        1011
+      ],
+      "truePre": [
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10106,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2409,
+      "name": "强效燃烧",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1013
+      ],
+      "preLabels": [
+        1012
+      ],
+      "truePre": [
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10107,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2419,
+      "name": "技能火弹",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10108,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2422,
+      "name": "多重火弹",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1043
+      ],
+      "preLabels": [
+        1042
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10109,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2423,
+      "name": "集中火弹",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1042
+      ],
+      "preLabels": [
+        1041
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10110,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2425,
+      "name": "爆燃火弹",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1044,
+        1014
+      ],
+      "preLabels": [
+        1043,
+        1011
+      ],
+      "truePre": [
+        1041,
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10111,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 101,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2432,
+      "name": "火弹弹射",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1042
+      ],
+      "preLabels": [
+        1041
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10112,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2433,
+      "name": "火弹强化",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1042
+      ],
+      "preLabels": [
+        1041
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10113,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2438,
+      "name": "技能燃烧",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10114,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2439,
+      "name": "势如破竹",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80115,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2441,
+      "name": "火焰漫步",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1012
+      ],
+      "preLabels": [
+        1011,
+        1021
+      ],
+      "truePre": [
+        1011,
+        1021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10116,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2442,
+      "name": "召唤火环",
+      "series": [
+        1
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10117,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2443,
+      "name": "放置地雷",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10118,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": "GuideSummon:1"
+    },
+    {
+      "id": 2445,
+      "name": "易燃易爆",
+      "series": [
+        1
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10119,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2446,
+      "name": "高效布雷",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1053
+      ],
+      "preLabels": [
+        1052
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10120,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2447,
+      "name": "地雷强化",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1052
+      ],
+      "preLabels": [
+        1051
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10121,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2448,
+      "name": "额外地雷",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1052
+      ],
+      "preLabels": [
+        1051
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10122,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2450,
+      "name": "受击火环",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1062
+      ],
+      "preLabels": [
+        1061
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10123,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2452,
+      "name": "大型火环",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1062
+      ],
+      "preLabels": [
+        1061
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10124,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2453,
+      "name": "变形火环",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1062
+      ],
+      "preLabels": [
+        1061
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10125,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2454,
+      "name": "双发火环",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1063
+      ],
+      "preLabels": [
+        1062
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10126,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2455,
+      "name": "火精灵助战",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10127,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2456,
+      "name": "火精灵强化",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1032
+      ],
+      "preLabels": [
+        1031
+      ],
+      "truePre": [
+        1031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10128,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2457,
+      "name": "火精灵连击",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1032
+      ],
+      "preLabels": [
+        1031
+      ],
+      "truePre": [
+        1031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10129,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2458,
+      "name": "快速分裂",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1032
+      ],
+      "preLabels": [
+        1031
+      ],
+      "truePre": [
+        1031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10130,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2459,
+      "name": "持久分裂",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1033
+      ],
+      "preLabels": [
+        1032
+      ],
+      "truePre": [
+        1031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10131,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2460,
+      "name": "火焰飞剑",
+      "series": [
+        1,
+        7
+      ],
+      "labels": [
+        1,
+        1014,
+        7034
+      ],
+      "preLabels": [
+        1013,
+        7031
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10132,
+      "triggerLabelIndex": 1,
+      "faction": 101,
+      "secondFaction": 703,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2461,
+      "name": "火精灵引爆",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1034,
+        1014
+      ],
+      "preLabels": [
+        1033,
+        1011
+      ],
+      "truePre": [
+        1031,
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10133,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 101,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2462,
+      "name": "火环燃烧",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1014,
+        1064
+      ],
+      "preLabels": [
+        1013,
+        1061
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10134,
+      "triggerLabelIndex": 1,
+      "faction": 101,
+      "secondFaction": 106,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2463,
+      "name": "火弹火精灵",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1034,
+        1044
+      ],
+      "preLabels": [
+        1033,
+        1041
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10135,
+      "triggerLabelIndex": 1,
+      "faction": 103,
+      "secondFaction": 104,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2464,
+      "name": "地雷火焰",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1054,
+        1014
+      ],
+      "preLabels": [
+        1053,
+        1011
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10136,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 101,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2465,
+      "name": "火精灵弹跳",
+      "series": [
+        1,
+        3
+      ],
+      "labels": [
+        1,
+        1034,
+        3014
+      ],
+      "preLabels": [
+        1033,
+        3011
+      ],
+      "truePre": [
+        1031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10137,
+      "triggerLabelIndex": 0,
+      "faction": 103,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2466,
+      "name": "雷云火弹",
+      "series": [
+        1,
+        3
+      ],
+      "labels": [
+        1,
+        1044,
+        3014
+      ],
+      "preLabels": [
+        1043,
+        30111
+      ],
+      "truePre": [
+        30111
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10138,
+      "triggerLabelIndex": 1,
+      "faction": 104,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2467,
+      "name": "传承技火弹",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10639,
+      "triggerLabelIndex": 0,
+      "faction": 104,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2469,
+      "name": "地雷闪光",
+      "series": [
+        1,
+        6
+      ],
+      "labels": [
+        1,
+        1054,
+        6044
+      ],
+      "preLabels": [
+        1053,
+        6041
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10140,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 604,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2470,
+      "name": "风暴火环",
+      "series": [
+        1,
+        7
+      ],
+      "labels": [
+        1,
+        1064,
+        7044
+      ],
+      "preLabels": [
+        1063,
+        7041
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10141,
+      "triggerLabelIndex": 1,
+      "faction": 106,
+      "secondFaction": 704,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2472,
+      "name": "地雷溅射",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1052
+      ],
+      "preLabels": [
+        1051
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10142,
+      "triggerLabelIndex": 0,
+      "faction": 105,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2474,
+      "name": "传承技火环",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1061
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10643,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2480,
+      "name": "燃烧引燃",
+      "series": [
+        1
+      ],
+      "labels": [
+        1,
+        1012
+      ],
+      "preLabels": [
+        1011
+      ],
+      "truePre": [
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10144,
+      "triggerLabelIndex": 0,
+      "faction": 101,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 2481,
+      "name": "焚弹火环",
+      "series": [
+        1,
+        7
+      ],
+      "labels": [
+        1,
+        1064,
+        7024
+      ],
+      "preLabels": [
+        1063,
+        7021
+      ],
+      "truePre": [
+        1061
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10145,
+      "triggerLabelIndex": 0,
+      "faction": 106,
+      "secondFaction": 702,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 2482,
+      "name": "燃烧爆弹",
+      "series": [
+        1,
+        1
+      ],
+      "labels": [
+        1,
+        1044,
+        1014
+      ],
+      "preLabels": [
+        1043,
+        1011
+      ],
+      "truePre": [
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 10146,
+      "triggerLabelIndex": 1,
+      "faction": 104,
+      "secondFaction": 101,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3205,
+      "name": "召唤回旋刃",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7024,
+        7034
+      ],
+      "preLabels": [
+        7023,
+        7031
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70147,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 703,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3222,
+      "name": "双刃剑",
+      "series": [
+        7
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70148,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3225,
+      "name": "冲刺飞剑",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70149,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3226,
+      "name": "普攻撕裂",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70150,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3227,
+      "name": "技能撕裂",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70151,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3228,
+      "name": "多重飞剑",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7033
+      ],
+      "preLabels": [
+        7032
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70152,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3230,
+      "name": "长距飞剑",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7032
+      ],
+      "preLabels": [
+        7031
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70153,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3231,
+      "name": null,
+      "series": [
+        7
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70154,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3232,
+      "name": "短距撕裂",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7012
+      ],
+      "preLabels": [
+        7011
+      ],
+      "truePre": [
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70155,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3233,
+      "name": "撕裂加深",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7012
+      ],
+      "preLabels": [
+        7011
+      ],
+      "truePre": [
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70156,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3235,
+      "name": "撕裂隐患",
+      "series": [
+        7
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70157,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3236,
+      "name": "致命撕裂",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7013
+      ],
+      "preLabels": [
+        7012
+      ],
+      "truePre": [
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70158,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3243,
+      "name": "召唤刃环",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70159,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3245,
+      "name": "受击风暴",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7042
+      ],
+      "preLabels": [
+        7041
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70160,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3246,
+      "name": "风暴拉扯",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7042
+      ],
+      "preLabels": [
+        7041
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70161,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3247,
+      "name": "风暴扩大",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7042
+      ],
+      "preLabels": [
+        7041
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70162,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3248,
+      "name": "风暴追踪",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7042
+      ],
+      "preLabels": [
+        7041
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70163,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3249,
+      "name": "风暴加速",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7043
+      ],
+      "preLabels": [
+        7042
+      ],
+      "truePre": [
+        7041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70164,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3250,
+      "name": "精密切割",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7022
+      ],
+      "preLabels": [
+        7021
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70165,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3251,
+      "name": "大号刃环",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7022
+      ],
+      "preLabels": [
+        7021
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70166,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3252,
+      "name": "刃环拉扯",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7022
+      ],
+      "preLabels": [
+        7021
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70167,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3253,
+      "name": "双生刃环",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7023
+      ],
+      "preLabels": [
+        7022
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70168,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3254,
+      "name": "传承技风暴",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70669,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3255,
+      "name": "嗜血飞剑",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7034,
+        7014
+      ],
+      "preLabels": [
+        7033,
+        7011
+      ],
+      "truePre": [
+        7031,
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70170,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 701,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3256,
+      "name": "嗜血刃环",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7024,
+        7014
+      ],
+      "preLabels": [
+        7023,
+        7011
+      ],
+      "truePre": [
+        7021,
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70171,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 701,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3257,
+      "name": "嗜血风暴",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7044,
+        7014
+      ],
+      "preLabels": [
+        7043,
+        7011
+      ],
+      "truePre": [
+        7041,
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70172,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 701,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3258,
+      "name": "染血飞剑",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7032
+      ],
+      "preLabels": [
+        7031
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70173,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3259,
+      "name": "闪避飞剑",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7032
+      ],
+      "preLabels": [
+        7031
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70174,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3260,
+      "name": "双向飞剑",
+      "series": [
+        7,
+        1
+      ],
+      "labels": [
+        7,
+        7034,
+        1034
+      ],
+      "preLabels": [
+        7033,
+        1031
+      ],
+      "truePre": [
+        7031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70175,
+      "triggerLabelIndex": 0,
+      "faction": 703,
+      "secondFaction": 103,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3261,
+      "name": "连续刃环",
+      "series": [
+        7,
+        4
+      ],
+      "labels": [
+        7,
+        7024,
+        4064
+      ],
+      "preLabels": [
+        7023,
+        4021
+      ],
+      "truePre": [
+        4021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70176,
+      "triggerLabelIndex": 1,
+      "faction": 702,
+      "secondFaction": 406,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3262,
+      "name": "黑洞刀刃",
+      "series": [
+        7,
+        5
+      ],
+      "labels": [
+        7,
+        7044,
+        5034
+      ],
+      "preLabels": [
+        7043,
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70177,
+      "triggerLabelIndex": 1,
+      "faction": 704,
+      "secondFaction": 503,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3263,
+      "name": "针对影刺",
+      "series": [
+        7,
+        5
+      ],
+      "labels": [
+        7,
+        7014,
+        5014
+      ],
+      "preLabels": [
+        7013,
+        5011
+      ],
+      "truePre": [
+        5011,
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70178,
+      "triggerLabelIndex": 1,
+      "faction": 701,
+      "secondFaction": 501,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3264,
+      "name": "技能风暴",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70179,
+      "triggerLabelIndex": 0,
+      "faction": 704,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3265,
+      "name": "撕裂冲击",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7012
+      ],
+      "preLabels": [
+        7011
+      ],
+      "truePre": [
+        7011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70180,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3266,
+      "name": "受击刃环",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7022
+      ],
+      "preLabels": [
+        7021
+      ],
+      "truePre": [
+        7021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70181,
+      "triggerLabelIndex": 0,
+      "faction": 702,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3267,
+      "name": "撕裂光阵",
+      "series": [
+        7,
+        6
+      ],
+      "labels": [
+        7,
+        7014,
+        6024
+      ],
+      "preLabels": [
+        7013,
+        6021
+      ],
+      "truePre": [
+        7011,
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70182,
+      "triggerLabelIndex": 0,
+      "faction": 701,
+      "secondFaction": 602,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3268,
+      "name": "普攻飞刃",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70183,
+      "triggerLabelIndex": 0,
+      "faction": 705,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3271,
+      "name": "潜伏飞刃",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7052
+      ],
+      "preLabels": [
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70184,
+      "triggerLabelIndex": 0,
+      "faction": 705,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3272,
+      "name": "飞刃轮舞",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7052
+      ],
+      "preLabels": [
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70185,
+      "triggerLabelIndex": 0,
+      "faction": 705,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3273,
+      "name": "飞刃冲击",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7052
+      ],
+      "preLabels": [
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70186,
+      "triggerLabelIndex": 0,
+      "faction": 705,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3274,
+      "name": "飞刃切割",
+      "series": [
+        7
+      ],
+      "labels": [
+        7,
+        7053
+      ],
+      "preLabels": [
+        7052
+      ],
+      "truePre": [
+        7052
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70187,
+      "triggerLabelIndex": 0,
+      "faction": 705,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3275,
+      "name": "传送飞刃",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7054,
+        7034
+      ],
+      "preLabels": [
+        7053,
+        7031
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70188,
+      "triggerLabelIndex": 1,
+      "faction": 705,
+      "secondFaction": 703,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3276,
+      "name": "飞刃回环",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7024,
+        7054
+      ],
+      "preLabels": [
+        7023,
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70189,
+      "triggerLabelIndex": 1,
+      "faction": 702,
+      "secondFaction": 705,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3277,
+      "name": "斩杀风暴",
+      "series": [
+        7,
+        7
+      ],
+      "labels": [
+        7,
+        7014,
+        7044
+      ],
+      "preLabels": [
+        7013,
+        7041
+      ],
+      "truePre": [
+        7011,
+        7013
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70190,
+      "triggerLabelIndex": 1,
+      "faction": 701,
+      "secondFaction": 704,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3278,
+      "name": "落雷飞刃",
+      "series": [
+        7,
+        3
+      ],
+      "labels": [
+        7,
+        7054,
+        3044
+      ],
+      "preLabels": [
+        7053,
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 70191,
+      "triggerLabelIndex": 1,
+      "faction": 705,
+      "secondFaction": 304,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3301,
+      "name": "普攻蛊毒",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40192,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3304,
+      "name": "召唤史莱姆",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40193,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": "GuideSummon:1"
+    },
+    {
+      "id": 3306,
+      "name": "延迟毒爆",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40194,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3307,
+      "name": "针对性感染",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40195,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3308,
+      "name": "蛊毒叠加",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40196,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3309,
+      "name": "蛊毒传染",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40197,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3310,
+      "name": "自爆史莱姆",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        40322,
+        403
+      ],
+      "preLabels": [
+        4031
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40198,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3311,
+      "name": "长效史莱姆",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        40321,
+        403
+      ],
+      "preLabels": [
+        4031
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40199,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3313,
+      "name": "大型史莱姆",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4033
+      ],
+      "preLabels": [
+        40322
+      ],
+      "truePre": [
+        4031,
+        40322
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40200,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3315,
+      "name": "极速史莱姆",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4033
+      ],
+      "preLabels": [
+        40321
+      ],
+      "truePre": [
+        4031,
+        40321
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40201,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3317,
+      "name": "技能毒环",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40202,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3318,
+      "name": "毒环扩大",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40203,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3319,
+      "name": "扩散毒环",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40204,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3320,
+      "name": "破敌毒增",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40205,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3321,
+      "name": "分裂史莱姆",
+      "series": [
+        4,
+        1
+      ],
+      "labels": [
+        4,
+        4034,
+        1034
+      ],
+      "preLabels": [
+        4033,
+        1031
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40206,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 103,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3322,
+      "name": "冲刺毒弹",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40207,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3323,
+      "name": "扩散毒弹",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4043
+      ],
+      "preLabels": [
+        4042
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40208,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3324,
+      "name": "分裂毒弹",
+      "series": [
+        4,
+        1
+      ],
+      "labels": [
+        4,
+        4044,
+        1034
+      ],
+      "preLabels": [
+        4043,
+        1031
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40209,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 103,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3325,
+      "name": "毒液残留",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4054,
+        4044
+      ],
+      "preLabels": [
+        4053,
+        4041
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40210,
+      "triggerLabelIndex": 1,
+      "faction": 405,
+      "secondFaction": 404,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3327,
+      "name": "传承技毒液",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40711,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3329,
+      "name": "强效修复",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80212,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3331,
+      "name": "闪避毒弹",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4042
+      ],
+      "preLabels": [
+        4041
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40213,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3333,
+      "name": "长效毒液",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4052
+      ],
+      "preLabels": [
+        4051
+      ],
+      "truePre": [
+        4051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40214,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3334,
+      "name": "毒液扩大",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4052
+      ],
+      "preLabels": [
+        4051
+      ],
+      "truePre": [
+        4051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40215,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3335,
+      "name": "毒素累积",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4053
+      ],
+      "preLabels": [
+        4052
+      ],
+      "truePre": [
+        4051
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40216,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3336,
+      "name": "受击毒雾",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40217,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3337,
+      "name": "电解化毒",
+      "series": [
+        4,
+        3
+      ],
+      "labels": [
+        4,
+        4064,
+        3014
+      ],
+      "preLabels": [
+        4063,
+        3011
+      ],
+      "truePre": [
+        3011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40218,
+      "triggerLabelIndex": 1,
+      "faction": 406,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3338,
+      "name": "剧毒史莱姆",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4064,
+        4034
+      ],
+      "preLabels": [
+        4063,
+        4031
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40219,
+      "triggerLabelIndex": 1,
+      "faction": 406,
+      "secondFaction": 403,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3339,
+      "name": "毒环毒层爆发",
+      "series": [
+        4
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40220,
+      "triggerLabelIndex": 1,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3340,
+      "name": "中毒毒弹",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4044,
+        4064
+      ],
+      "preLabels": [
+        4043,
+        4061
+      ],
+      "truePre": [
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40221,
+      "triggerLabelIndex": 1,
+      "faction": 404,
+      "secondFaction": 406,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3341,
+      "name": "毒液史莱姆",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4034,
+        4054
+      ],
+      "preLabels": [
+        4033,
+        4051
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40222,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 405,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3342,
+      "name": "烈性毒弹",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4042
+      ],
+      "preLabels": [
+        4041,
+        4061
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40223,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3343,
+      "name": "烈性毒液",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4052
+      ],
+      "preLabels": [
+        4051,
+        4061
+      ],
+      "truePre": [
+        4051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40224,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3344,
+      "name": "地雷毒液",
+      "series": [
+        4,
+        1
+      ],
+      "labels": [
+        4,
+        4054,
+        1054
+      ],
+      "preLabels": [
+        4053,
+        1051
+      ],
+      "truePre": [
+        1051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40225,
+      "triggerLabelIndex": 1,
+      "faction": 405,
+      "secondFaction": 105,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3355,
+      "name": "普攻淬毒",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4061,
+        40111
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40226,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3356,
+      "name": "技能毒环",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4061,
+        4021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40227,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3357,
+      "name": "急性中毒",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4063
+      ],
+      "preLabels": [
+        4062
+      ],
+      "truePre": [
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40228,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3358,
+      "name": "毒素污染",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4062
+      ],
+      "preLabels": [
+        4061
+      ],
+      "truePre": [
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40229,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3359,
+      "name": "受击毒雾",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4062
+      ],
+      "preLabels": [
+        40111
+      ],
+      "truePre": [
+        40111
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40230,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3360,
+      "name": "毒素扩散",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4062
+      ],
+      "preLabels": [
+        4061
+      ],
+      "truePre": [
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40231,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3361,
+      "name": "受击毒环",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4062
+      ],
+      "preLabels": [
+        4021
+      ],
+      "truePre": [
+        4021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40232,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3362,
+      "name": "浓缩毒弹",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4042
+      ],
+      "preLabels": [
+        4041
+      ],
+      "truePre": [
+        4041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40233,
+      "triggerLabelIndex": 0,
+      "faction": 404,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3363,
+      "name": "强效中毒",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4062
+      ],
+      "preLabels": [
+        4061
+      ],
+      "truePre": [
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40234,
+      "triggerLabelIndex": 0,
+      "faction": 406,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3364,
+      "name": "技能毒液",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40235,
+      "triggerLabelIndex": 0,
+      "faction": 405,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3365,
+      "name": "附身史莱姆",
+      "series": [
+        4,
+        6
+      ],
+      "labels": [
+        4,
+        4034,
+        6054
+      ],
+      "preLabels": [
+        4033,
+        6051
+      ],
+      "truePre": [
+        4031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40236,
+      "triggerLabelIndex": 0,
+      "faction": 403,
+      "secondFaction": 605,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3366,
+      "name": "传承技河豚",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4071
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40737,
+      "triggerLabelIndex": 0,
+      "faction": 407,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3367,
+      "name": "毒泡久喷",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4072
+      ],
+      "preLabels": [
+        4071
+      ],
+      "truePre": [
+        4071
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40238,
+      "triggerLabelIndex": 0,
+      "faction": 407,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3368,
+      "name": "毒泡延距",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4072
+      ],
+      "preLabels": [
+        4071
+      ],
+      "truePre": [
+        4071
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40239,
+      "triggerLabelIndex": 0,
+      "faction": 407,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3369,
+      "name": "大型毒泡",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4072
+      ],
+      "preLabels": [
+        4071
+      ],
+      "truePre": [
+        4071
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40240,
+      "triggerLabelIndex": 0,
+      "faction": 407,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3370,
+      "name": "河豚延续",
+      "series": [
+        4
+      ],
+      "labels": [
+        4,
+        4073
+      ],
+      "preLabels": [
+        4072
+      ],
+      "truePre": [
+        4072
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40241,
+      "triggerLabelIndex": 0,
+      "faction": 407,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3371,
+      "name": "毒液催化",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4064,
+        4054
+      ],
+      "preLabels": [
+        4063,
+        4051
+      ],
+      "truePre": [
+        4051,
+        4061
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40242,
+      "triggerLabelIndex": 1,
+      "faction": 406,
+      "secondFaction": 405,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3372,
+      "name": "河豚毒弹",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4044,
+        4074
+      ],
+      "preLabels": [
+        4043,
+        4071
+      ],
+      "truePre": [
+        4071
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40243,
+      "triggerLabelIndex": 1,
+      "faction": 404,
+      "secondFaction": 407,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3373,
+      "name": "泡状毒液",
+      "series": [
+        4,
+        4
+      ],
+      "labels": [
+        4,
+        4074,
+        4054
+      ],
+      "preLabels": [
+        4073,
+        4051
+      ],
+      "truePre": [
+        4051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40244,
+      "triggerLabelIndex": 1,
+      "faction": 407,
+      "secondFaction": 405,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3374,
+      "name": "燃气毒泡",
+      "series": [
+        4,
+        1
+      ],
+      "labels": [
+        4,
+        4074,
+        1014
+      ],
+      "preLabels": [
+        4073,
+        1011
+      ],
+      "truePre": [
+        4071,
+        1011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 40245,
+      "triggerLabelIndex": 1,
+      "faction": 407,
+      "secondFaction": 101,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3403,
+      "name": "召唤触手",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50246,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": "GuideSummon:1"
+    },
+    {
+      "id": 3405,
+      "name": "影子穿刺",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        5,
+        5014,
+        5044
+      ],
+      "preLabels": [
+        5013,
+        5041
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50247,
+      "triggerLabelIndex": 1,
+      "faction": 501,
+      "secondFaction": 504,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3410,
+      "name": "大型触手",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5022
+      ],
+      "preLabels": [
+        5021
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50248,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3413,
+      "name": "绝境暗意",
+      "series": [
+        5
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50249,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3416,
+      "name": "冲刺影子",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50250,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3421,
+      "name": "速攻触手",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5022
+      ],
+      "preLabels": [
+        5021
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50251,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3422,
+      "name": "连击触手",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5023
+      ],
+      "preLabels": [
+        5022
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50252,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3427,
+      "name": "远程影刺",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5012
+      ],
+      "preLabels": [
+        5011
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50253,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3429,
+      "name": "受击影刺",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5012
+      ],
+      "preLabels": [
+        5011
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50254,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3430,
+      "name": "受击蓄能",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80255,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3433,
+      "name": "普攻影刺",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50256,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3434,
+      "name": "技能影刺",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5011
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50257,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3435,
+      "name": "传承技黑洞",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50758,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3438,
+      "name": "触手坍缩",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        5,
+        5034,
+        5024
+      ],
+      "preLabels": [
+        5033,
+        5021
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50259,
+      "triggerLabelIndex": 1,
+      "faction": 503,
+      "secondFaction": 502,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3439,
+      "name": "暴躁触手",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        5,
+        5024,
+        5014
+      ],
+      "preLabels": [
+        5023,
+        5011
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50260,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 501,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3440,
+      "name": "影刺强化",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5013
+      ],
+      "preLabels": [
+        5012
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50261,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3441,
+      "name": "死亡影刺",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5012
+      ],
+      "preLabels": [
+        5011
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50262,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3442,
+      "name": "标记弱点",
+      "series": [
+        5
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50263,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3443,
+      "name": "触手吞噬",
+      "series": [
+        5,
+        6
+      ],
+      "labels": [
+        5,
+        5024,
+        6044
+      ],
+      "preLabels": [
+        5023,
+        6041
+      ],
+      "truePre": [
+        5021,
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50264,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 604,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3444,
+      "name": "大型黑洞",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5032
+      ],
+      "preLabels": [
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50265,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3445,
+      "name": "黑洞爆炸",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5032
+      ],
+      "preLabels": [
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50266,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3446,
+      "name": "持久黑洞",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5032
+      ],
+      "preLabels": [
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50267,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3447,
+      "name": "黑洞盛宴",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5033
+      ],
+      "preLabels": [
+        5032
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50268,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3448,
+      "name": "黑洞减速",
+      "series": [
+        5,
+        2
+      ],
+      "labels": [
+        5,
+        5034,
+        20141
+      ],
+      "preLabels": [
+        5033,
+        20121
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50269,
+      "triggerLabelIndex": 0,
+      "faction": 503,
+      "secondFaction": 201,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3449,
+      "name": "影子反冲",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5042
+      ],
+      "preLabels": [
+        5041
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50270,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3450,
+      "name": "影子强化",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5042
+      ],
+      "preLabels": [
+        5041
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50271,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3451,
+      "name": "闪避影子",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5042
+      ],
+      "preLabels": [
+        5041
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50272,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3452,
+      "name": "影子转化",
+      "series": [
+        5,
+        1
+      ],
+      "labels": [
+        5,
+        5014,
+        1054
+      ],
+      "preLabels": [
+        5013,
+        1051
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50273,
+      "triggerLabelIndex": 0,
+      "faction": 501,
+      "secondFaction": 105,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3453,
+      "name": "影刃冲刺",
+      "series": [
+        5,
+        7
+      ],
+      "labels": [
+        5,
+        5044,
+        7024
+      ],
+      "preLabels": [
+        5043,
+        7021
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50274,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 702,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3454,
+      "name": "多重影子",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5043
+      ],
+      "preLabels": [
+        5042
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50275,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3455,
+      "name": "触手集群",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5022
+      ],
+      "preLabels": [
+        5021
+      ],
+      "truePre": [
+        5021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50276,
+      "triggerLabelIndex": 0,
+      "faction": 502,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3456,
+      "name": "概率影爆",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        5,
+        5044,
+        5034
+      ],
+      "preLabels": [
+        5043,
+        5031
+      ],
+      "truePre": [
+        5041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50277,
+      "triggerLabelIndex": 0,
+      "faction": 504,
+      "secondFaction": 503,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3457,
+      "name": "普攻影标",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50278,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3458,
+      "name": "技能影标",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50279,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3459,
+      "name": "影标解限",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5052
+      ],
+      "preLabels": [
+        5051
+      ],
+      "truePre": [
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50280,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3460,
+      "name": "影标增殖",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5052
+      ],
+      "preLabels": [
+        5051
+      ],
+      "truePre": [
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50281,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3461,
+      "name": "影标连爆",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5052
+      ],
+      "preLabels": [
+        5051
+      ],
+      "truePre": [
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50282,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3462,
+      "name": "强链影标",
+      "series": [
+        5
+      ],
+      "labels": [
+        5,
+        5053
+      ],
+      "preLabels": [
+        5052
+      ],
+      "truePre": [
+        5052
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50283,
+      "triggerLabelIndex": 0,
+      "faction": 505,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3463,
+      "name": "黑洞链接",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        4,
+        5054,
+        5034
+      ],
+      "preLabels": [
+        5053,
+        5031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50284,
+      "triggerLabelIndex": 1,
+      "faction": 505,
+      "secondFaction": 503,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3464,
+      "name": "影刺吸附",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        4,
+        5034,
+        5014
+      ],
+      "preLabels": [
+        5033,
+        5011
+      ],
+      "truePre": [
+        5011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50285,
+      "triggerLabelIndex": 1,
+      "faction": 503,
+      "secondFaction": 501,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3465,
+      "name": "影链牵引",
+      "series": [
+        5,
+        5
+      ],
+      "labels": [
+        4,
+        5024,
+        5054
+      ],
+      "preLabels": [
+        5023,
+        5051
+      ],
+      "truePre": [
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50286,
+      "triggerLabelIndex": 1,
+      "faction": 502,
+      "secondFaction": 505,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3466,
+      "name": "活性黑洞",
+      "series": [
+        5,
+        4
+      ],
+      "labels": [
+        4,
+        5034,
+        4034
+      ],
+      "preLabels": [
+        5033,
+        4031
+      ],
+      "truePre": [
+        5031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50287,
+      "triggerLabelIndex": 1,
+      "faction": 503,
+      "secondFaction": 403,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3467,
+      "name": "冰影双剑",
+      "series": [
+        5,
+        2
+      ],
+      "labels": [
+        4,
+        5044,
+        2054
+      ],
+      "preLabels": [
+        5043,
+        2051
+      ],
+      "truePre": [
+        2051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50288,
+      "triggerLabelIndex": 1,
+      "faction": 504,
+      "secondFaction": 205,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3468,
+      "name": "影链电桩",
+      "series": [
+        5,
+        3
+      ],
+      "labels": [
+        4,
+        5054,
+        3054
+      ],
+      "preLabels": [
+        5053,
+        3051
+      ],
+      "truePre": [
+        3051,
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50289,
+      "triggerLabelIndex": 1,
+      "faction": 505,
+      "secondFaction": 305,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3469,
+      "name": "影刃回收",
+      "series": [
+        5,
+        7
+      ],
+      "labels": [
+        4,
+        5044,
+        7054
+      ],
+      "preLabels": [
+        5043,
+        7051
+      ],
+      "truePre": [
+        7051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 50290,
+      "triggerLabelIndex": 1,
+      "faction": 504,
+      "secondFaction": 705,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3501,
+      "name": "召唤光枪",
+      "series": [
+        6
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60291,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3505,
+      "name": "多重光枪",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6033
+      ],
+      "preLabels": [
+        6032
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60292,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3506,
+      "name": "圣光光枪",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6032
+      ],
+      "preLabels": [
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60293,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3507,
+      "name": "光枪禁锢",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6032
+      ],
+      "preLabels": [
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60294,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3508,
+      "name": "冲刺闪光",
+      "series": [
+        6
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60295,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3509,
+      "name": "闪光强化",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6042
+      ],
+      "preLabels": [
+        6041
+      ],
+      "truePre": [
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60296,
+      "triggerLabelIndex": 0,
+      "faction": 604,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3513,
+      "name": "大型光阵",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6023
+      ],
+      "preLabels": [
+        6022
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60297,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3515,
+      "name": "光阵致盲",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6022
+      ],
+      "preLabels": [
+        6021
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60298,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3516,
+      "name": "致盲虚弱",
+      "series": [
+        6
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60299,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3517,
+      "name": "光枪强化",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6032
+      ],
+      "preLabels": [
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60300,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3518,
+      "name": "大范围闪光",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6042
+      ],
+      "preLabels": [
+        6041
+      ],
+      "truePre": [
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60301,
+      "triggerLabelIndex": 0,
+      "faction": 604,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3519,
+      "name": "致盲延长",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6043
+      ],
+      "preLabels": [
+        6042
+      ],
+      "truePre": [
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60302,
+      "triggerLabelIndex": 0,
+      "faction": 604,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3521,
+      "name": "普攻光波",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6011,
+        601603
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 1,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60303,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3524,
+      "name": "破甲眩晕",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80304,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3525,
+      "name": "闪避闪光",
+      "series": [
+        6
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60305,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3526,
+      "name": "召唤光阵",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6021
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 5,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60306,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": "GuideSummon:1"
+    },
+    {
+      "id": 3528,
+      "name": "光波强化",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6012
+      ],
+      "preLabels": [
+        6011
+      ],
+      "truePre": [
+        6011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60307,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3529,
+      "name": "光波眩晕",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6012
+      ],
+      "preLabels": [
+        6011
+      ],
+      "truePre": [
+        6011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60308,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3530,
+      "name": "光阵庇护",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6022
+      ],
+      "preLabels": [
+        6021
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60309,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3531,
+      "name": "受击闪光",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6042
+      ],
+      "preLabels": [
+        6041
+      ],
+      "truePre": [
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60310,
+      "triggerLabelIndex": 0,
+      "faction": 604,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3534,
+      "name": "光波快充",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6014,
+        6024
+      ],
+      "preLabels": [
+        6013,
+        6021
+      ],
+      "truePre": [
+        6011,
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60311,
+      "triggerLabelIndex": 1,
+      "faction": 601,
+      "secondFaction": 602,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3535,
+      "name": "灵活充能",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6012
+      ],
+      "preLabels": [
+        6011
+      ],
+      "truePre": [
+        6011
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60312,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3536,
+      "name": "增强光波",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6013
+      ],
+      "preLabels": [
+        6012
+      ],
+      "truePre": [
+        6011
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60313,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3537,
+      "name": "光波传递",
+      "series": [
+        6,
+        3
+      ],
+      "labels": [
+        6,
+        6014,
+        3014
+      ],
+      "preLabels": [
+        6013,
+        3011
+      ],
+      "truePre": [
+        6011
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60314,
+      "triggerLabelIndex": 0,
+      "faction": 601,
+      "secondFaction": 301,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3538,
+      "name": "光阵增幅",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6022
+      ],
+      "preLabels": [
+        6021
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60315,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3539,
+      "name": "光阵吸引",
+      "series": [
+        6,
+        5
+      ],
+      "labels": [
+        6,
+        6024,
+        5034
+      ],
+      "preLabels": [
+        6023,
+        5031
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60316,
+      "triggerLabelIndex": 0,
+      "faction": 602,
+      "secondFaction": 503,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3540,
+      "name": "落雷光枪",
+      "series": [
+        6,
+        3
+      ],
+      "labels": [
+        6,
+        6034,
+        3044
+      ],
+      "preLabels": [
+        6033,
+        3041
+      ],
+      "truePre": [
+        3041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60317,
+      "triggerLabelIndex": 1,
+      "faction": 603,
+      "secondFaction": 304,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3541,
+      "name": "闪光冷却",
+      "series": [
+        6
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60318,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3542,
+      "name": "火弹闪光",
+      "series": [
+        6,
+        1
+      ],
+      "labels": [
+        6,
+        6044,
+        1044
+      ],
+      "preLabels": [
+        6043,
+        1041
+      ],
+      "truePre": [
+        1041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60319,
+      "triggerLabelIndex": 1,
+      "faction": 604,
+      "secondFaction": 104,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3543,
+      "name": "光枪光波",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6014,
+        6034
+      ],
+      "preLabels": [
+        6013,
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60320,
+      "triggerLabelIndex": 1,
+      "faction": 601,
+      "secondFaction": 603,
+      "invalid": false,
+      "pvpInvalid": false,
+      "extData": ""
+    },
+    {
+      "id": 3544,
+      "name": "光枪闪光",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6044,
+        6034
+      ],
+      "preLabels": [
+        6043,
+        6031
+      ],
+      "truePre": [
+        6031
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60321,
+      "triggerLabelIndex": 1,
+      "faction": 604,
+      "secondFaction": 603,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3545,
+      "name": "闪光光枪",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6034,
+        6044
+      ],
+      "preLabels": [
+        6033,
+        6041
+      ],
+      "truePre": [
+        6041
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60322,
+      "triggerLabelIndex": 1,
+      "faction": 603,
+      "secondFaction": 604,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3546,
+      "name": "持久光阵",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6024,
+        6044
+      ],
+      "preLabels": [
+        6023,
+        6041
+      ],
+      "truePre": [
+        6041,
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60323,
+      "triggerLabelIndex": 1,
+      "faction": 602,
+      "secondFaction": 604,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3547,
+      "name": "传承技光枪",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60824,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3549,
+      "name": "技能光枪",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6031
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 2,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60325,
+      "triggerLabelIndex": 0,
+      "faction": 603,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3550,
+      "name": "圣光标记",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6051
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 3,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60326,
+      "triggerLabelIndex": 0,
+      "faction": 605,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3551,
+      "name": "稳定标记",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6052
+      ],
+      "preLabels": [
+        6051
+      ],
+      "truePre": [
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60327,
+      "triggerLabelIndex": 0,
+      "faction": 605,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3552,
+      "name": "标记强化",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6052
+      ],
+      "preLabels": [
+        6051
+      ],
+      "truePre": [
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60328,
+      "triggerLabelIndex": 0,
+      "faction": 605,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3554,
+      "name": "标记共鸣",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6053
+      ],
+      "preLabels": [
+        6052
+      ],
+      "truePre": [
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 3,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60329,
+      "triggerLabelIndex": 0,
+      "faction": 605,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3553,
+      "name": "随机标记",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6052
+      ],
+      "preLabels": [
+        6051
+      ],
+      "truePre": [
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 2,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60330,
+      "triggerLabelIndex": 0,
+      "faction": 605,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3555,
+      "name": "传承技闪光",
+      "series": [
+        6
+      ],
+      "labels": [
+        6,
+        6041
+      ],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 4,
+      "gradation": 1,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60831,
+      "triggerLabelIndex": 0,
+      "faction": 604,
+      "secondFaction": 0,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3556,
+      "name": "标记闪光",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6044,
+        6054
+      ],
+      "preLabels": [
+        6043,
+        6051
+      ],
+      "truePre": [
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60332,
+      "triggerLabelIndex": 1,
+      "faction": 604,
+      "secondFaction": 605,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3557,
+      "name": "至圣标记",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        6,
+        6054,
+        6014
+      ],
+      "preLabels": [
+        6053,
+        6011
+      ],
+      "truePre": [
+        6011,
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60333,
+      "triggerLabelIndex": 1,
+      "faction": 605,
+      "secondFaction": 601,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3558,
+      "name": "冰刺标记",
+      "series": [
+        6,
+        2
+      ],
+      "labels": [
+        6,
+        6054,
+        2034
+      ],
+      "preLabels": [
+        6053,
+        2031
+      ],
+      "truePre": [
+        2031,
+        6051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60334,
+      "triggerLabelIndex": 1,
+      "faction": 605,
+      "secondFaction": 203,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3559,
+      "name": "标记光阵",
+      "series": [
+        6,
+        6
+      ],
+      "labels": [
+        4,
+        6054,
+        6024
+      ],
+      "preLabels": [
+        6053,
+        6021
+      ],
+      "truePre": [
+        6021
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60335,
+      "triggerLabelIndex": 1,
+      "faction": 605,
+      "secondFaction": 602,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 3560,
+      "name": "影链致盲",
+      "series": [
+        6,
+        5
+      ],
+      "labels": [
+        4,
+        6044,
+        5054
+      ],
+      "preLabels": [
+        6043,
+        5051
+      ],
+      "truePre": [
+        5051
+      ],
+      "triggerGroup": 0,
+      "gradation": 4,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 60336,
+      "triggerLabelIndex": 1,
+      "faction": 604,
+      "secondFaction": 505,
+      "invalid": false,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 4117,
+      "name": "连击保护",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80337,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    },
+    {
+      "id": 4118,
+      "name": "生生不息",
+      "series": [
+        8
+      ],
+      "labels": [],
+      "preLabels": [],
+      "truePre": [],
+      "triggerGroup": 0,
+      "gradation": 0,
+      "unique": false,
+      "potential": false,
+      "uniqueLabel": 0,
+      "unlockItemId": 0,
+      "orderInBlessDetailWindow": 80338,
+      "triggerLabelIndex": 0,
+      "faction": 0,
+      "secondFaction": 0,
+      "invalid": true,
+      "pvpInvalid": true,
+      "extData": ""
+    }
+  ]
+}

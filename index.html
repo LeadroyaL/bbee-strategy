@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>苍翼高级策略攻略</title>
+<style>
+:root { color-scheme: light; font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; color: #202838; }
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; min-height: 100svh; display: grid; grid-template-columns: minmax(0, 1fr); place-items: center; padding: 48px 24px; background: #f6f5f8; }
+.home { min-width: 0; width: min(100%, 860px); padding: 40px; background: #fff; border: 1px solid #ebe8ef; border-radius: 24px; box-shadow: 0 16px 64px -32px #39244824; }
+.brand { display: flex; align-items: center; gap: 20px; padding: 0 0 32px; }
+.game-icon { display: block; flex: 0 0 auto; width: 76px; height: 76px; border-radius: 20px; box-shadow: 0 4px 12px #41284f18; }
+.credits { min-width: 0; }
+.credits p { margin: 0; }
+.credits p:first-child { color: #262335; font-size: 18px; line-height: 1.65; font-weight: 650; letter-spacing: .2px; }
+.credits p + p { margin-top: 7px; }
+.credits a { color: #8a7896; font-size: 13px; line-height: 1.6; text-decoration: none; }
+.credits a:hover { color: #785292; text-decoration: underline; text-underline-offset: 4px; }
+.version-table { overflow-x: auto; border-top: 1px solid #efecf2; }
+table { width: 100%; min-width: 760px; border-collapse: collapse; }
+th, td { padding: 26px 0 0; text-align: left; border: 0; white-space: nowrap; }
+th { width: 20%; color: #9b94a5; font-size: 11px; line-height: 1.5; font-weight: 400; }
+.version-number { display: block; width: fit-content; margin-top: 5px; color: #64536f; font: 500 14px/1.5 ui-monospace, SFMono-Regular, Consolas, monospace; }
+td { width: 20%; }
+td a { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-right: 12px; padding: 12px 14px; border-radius: 10px; color: #41374d; background: #f8f6fa; font-size: 14px; line-height: 1.5; font-weight: 550; text-decoration: none; transition: background .15s, color .15s; }
+td:last-child a { margin-right: 0; }
+td a::after { content: "↗"; color: #afa3b9; font-size: 15px; font-weight: 400; }
+td a:hover { color: #72428e; background: #f0e8f6; }
+td a:hover::after { color: #72428e; }
+a:focus-visible, .version-table:focus-visible { outline: 2px solid #a987bd; outline-offset: 4px; }
+tr + tr > * { padding-top: 24px; }
+@media (max-width: 700px) { body { padding: 24px 16px; } .home { padding: 28px 22px; border-radius: 20px; } .brand { gap: 16px; padding-bottom: 26px; } .game-icon { width: 60px; height: 60px; border-radius: 16px; } .credits p:first-child { font-size: 14px; } .credits a { font-size: 11px; } table { min-width: 700px; } th { width: 20%; } td { width: 20%; } th, td { padding-top: 22px; } td a { padding: 11px 12px; font-size: 13px; } }
+@media (prefers-reduced-motion: reduce) { td a { transition: none; } }
+
+th { width: 18%; }
+td { width: 22%; }
+td.data-cell { width: 16%; text-align: right; }
+td a.data-download { display: inline; margin: 0; padding: 5px 0; border-radius: 0; background: none; color: #a29ba9; font-size: 11px; font-weight: 400; }
+td a.data-download::after { content: none; }
+td a.data-download:hover { background: none; color: #74667e; text-decoration: underline; text-underline-offset: 4px; }
+</style>
+<link rel="icon" type="image/png" href="v1.1.8/assets/icon.png">
+<link rel="apple-touch-icon" href="v1.1.8/assets/icon.png">
+</head>
+<body>
+<main class="home">
+<header class="brand">
+<img class="game-icon" src="v1.1.8/assets/icon.png" alt="苍翼：混沌效应" width="88" height="88">
+
+<div class="credits">
+<p>BBEE大学BUG研究所兼小学策略科研社</p>
+<p><a href="https://space.bilibili.com/8574658" target="_blank" rel="noopener noreferrer">B站@萌萌哒卓卓（UID：8574658）</a></p>
+</div>
+</header>
+<div class="version-table" role="region" aria-label="按游戏版本查阅攻略，可横向滚动" tabindex="0">
+<table aria-label="游戏版本与攻略入口"><tbody>
+<tr>
+<th scope="row">游戏版本<span class="version-number">1.1.8</span></th>
+<td><a href="v1.1.8/red_strategy_rules.html">双重策略规则</a></td>
+<td><a href="v1.1.8/red_strategies8.html">无黑市8红</a></td>
+<td><a href="v1.1.8/red_strategies13.html">黑市13红</a></td>
+<td class="data-cell"><a class="data-download" href="v1.1.8/strategies.json" download="strategies.json" title="下载策略原始数据（JSON 格式）">全策略 JSON ↓</a></td>
+</tr>
+</tbody></table>
+</div>
+</main>
+</body>
+</html>
